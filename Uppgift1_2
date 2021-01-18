@@ -1,0 +1,3 @@
+namn = input("Vad heter du?")
+for X in range(39):
+    print(namn)
